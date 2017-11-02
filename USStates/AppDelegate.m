@@ -1,9 +1,9 @@
 //
 //  AppDelegate.m
 //  USStates
-//
-//  Created by Andres Gonzalez on 10/30/17.
-//  Copyright © 2017 Andres Gonzalez. All rights reserved.
+/
+//  Created by Langston Duncanson on 10/30/17.
+//  Copyright © 2017 Langston Duncanson. All rights reserved.
 //
 
 #import "AppDelegate.h"
