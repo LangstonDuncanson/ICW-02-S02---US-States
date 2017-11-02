@@ -1,14 +1,14 @@
 //
 //  ViewController.m
 //  USStates
-//
-//  Created by Andres Gonzalez on 10/30/17.
-//  Copyright © 2017 Andres Gonzalez. All rights reserved.
+/
+//  Created by Langston Duncanson on 10/30/17.
+//  Copyright © 2017 Langston Duncanson. All rights reserved.
 //
 
 #import "ViewController.h"
 
-@interface ViewController ()<UITableViewDelegate, UITableViewDataSource>
+@interface ViewController ()
 
 @property (nonatomic, strong)NSArray *states;
 @property (nonatomic, strong)NSArray *capitals;
